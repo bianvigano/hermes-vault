@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 vault_update.py v3 — Deep session extractor from request_dump JSON.
-Reads /home/the-meh/.hermes/sessions/request_dump_*.json
+Reads USER_HOME/.hermes/sessions/request_dump_*.json
 Groups by session_id, picks the richest dump per session,
 generates rich markdown session files in vault/sessions/.
 
@@ -24,6 +24,13 @@ import shutil
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+
+
+def sanitize_home_path(text):
+    """Replace /home/the-meh/ with USER_HOME/ in text."""
+    if isinstance(text, str):
+        return text.replace("/home/the-meh/", "USER_HOME/")
+    return text
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
@@ -243,6 +250,7 @@ def extract_session_data(msg_count, dump_file, data):
         else " ".join(p.get("text", "") for p in m.get("content", []) if isinstance(p, dict))
         for m in messages
     )
+    all_text = sanitize_home_path(all_text)
     commands = extract_inline_commands(all_text)
     
     # Extract code blocks

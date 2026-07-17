@@ -9,9 +9,9 @@ source: "sessions/hermes/httpssparkluckome6hu1vnxfuz-apakah-kamu-bisa-perik.md"
 # https://spark.lucko.me/6hu1VNXFuZ apakah kamu bisa periksa link ini menggunkan s
 
 ## Commands
-- `python3 /home/the-meh/.hermes/skills/spark-profiler-analyzer/scripts/check_spark_selenium.py`
-- `python3 /home/the-meh/check_spark_selenium.py`
-- `python3 /home/the-meh/spark_tools/check_spark_selenium.py` ```json`
+- `python3 USER_HOME/.hermes/skills/spark-profiler-analyzer/scripts/check_spark_selenium.py`
+- `python3 USER_HOME/check_spark_selenium.py`
+- `python3 USER_HOME/spark_tools/check_spark_selenium.py` ```json`
 - `pip install selenium webdriver-manager`
 
 ## Code

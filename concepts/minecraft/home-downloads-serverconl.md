@@ -1,12 +1,12 @@
 ---
-title: "'/home/the-meh/Downloads/serverconl' lihat ini"
+title: "'USER_HOME/Downloads/serverconl' lihat ini"
 date: 2026-07-16
 category: minecraft
 tags: []
 source: "sessions/hermes/homethe-mehdownloadsserverconl-lihat-ini.md"
 ---
 
-# '/home/the-meh/Downloads/serverconl' lihat ini
+# 'USER_HOME/Downloads/serverconl' lihat ini
 
 ## Masalah
 - gs/ ├── ops.json ├── permissio

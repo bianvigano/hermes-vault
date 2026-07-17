@@ -20,8 +20,8 @@ Model: ay/MiniMax-M2.7 | Pesan: 19 | Kategori: hermes
 ### Q2: kalo yang paling bagus dan butuh lama tidak masalah tapi jagan bung token aja lebih banya
 **A:** Kalau prioritasnya **kualitas terbaik** dan **tidak masalah lama**, tapi **hemat token**: **Markdown** paling bagus. Alasannya: - Lebih readable untuk konten panjang (dokumentasi, panduan, penjelasan) - Tidak perlu escape character kayak JSON (`"`, `\`, `{}`) - Lebih ringan dari JSON untuk teks nara
 
-### Q3: saya mau tau isi dari ini '/home/the-meh/Downloads/hermes-custom-skills-main'
-### Q4: saya mau tau isi dari ini '/home/the-meh/Downloads/hermes-custom-skills-main' saya mau tau isi dari ini '/home/the-meh/D
+### Q3: saya mau tau isi dari ini 'USER_HOME/Downloads/hermes-custom-skills-main'
+### Q4: saya mau tau isi dari ini 'USER_HOME/Downloads/hermes-custom-skills-main' saya mau tau isi dari ini 'USER_HOME/D
 **A:** Ini isi folder `hermes-custom-skills-main`: **20 folder skill + 2 file:** ``` browser-automation-enterprise/ caveman/ content-pipeline-builder/ context-delegation/ grill-me/ handoff/ hermes-fix-session-index/ hermes-multi-session/ hermes-python-pipeline/ hermes-save-session/ hermes-tools/ improve-co
 
 ### Q5: lihat fungsinya apa
@@ -29,7 +29,7 @@ Model: ay/MiniMax-M2.7 | Pesan: 19 | Kategori: hermes
 **A:** Ini ringkasan fungsi semua skill: --- **Pipeline & Content Factory** - **content-pipeline-builder** — Arsitektur multi-agent content pipeline - **hermes-python-pipeline** — Python script patterns, VTT parsing, chunking - **live2video-pipeline** — YouTube livestream → short clips (22 script Python st
 
 ### Q7: lihat isi satu per satu
-**A:** Membaca isi setiap skill (SKILL.md) satu per satu. <｜tool▁calls▁begin｜><｜tool▁call▁begin｜> read_file <｜tool▁sep｜>path /home/the-meh/Downloads/hermes-custom-skills-main/browser-automation-enterprise/SKILL.md <｜tool▁call▁end｜><｜tool▁call▁begin｜> read_file <｜tool▁sep｜>path /home/the-meh/Downloads/herme
+**A:** Membaca isi setiap skill (SKILL.md) satu per satu. <｜tool▁calls▁begin｜><｜tool▁call▁begin｜> read_file <｜tool▁sep｜>path USER_HOME/Downloads/hermes-custom-skills-main/browser-automation-enterprise/SKILL.md <｜tool▁call▁end｜><｜tool▁call▁begin｜> read_file <｜tool▁sep｜>path USER_HOME/Downloads/herme
 
 ## Code
 ```bash

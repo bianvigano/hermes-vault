@@ -10,7 +10,7 @@ Kumpulan pengetahuan backend web development: Node.js/Express, scraper manga, da
 
 ## Sumber
 
-Diimpor dari `/home/the-meh/Documents/AI-m/chatgpt-markdown/` — 23 file ChatGPT conversation tentang backend, scraper, dan API.
+Diimpor dari `USER_HOME/Documents/AI-m/chatgpt-markdown/` — 23 file ChatGPT conversation tentang backend, scraper, dan API.
 
 ## Related
 

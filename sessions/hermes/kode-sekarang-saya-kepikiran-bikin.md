@@ -18,7 +18,7 @@ Model: 9run_owl-alpha | Pesan: 307 | Kategori: hermes
 ### Q2: bisa kah kamu bikin kan system list server untuk saya taruh ip dan informasi nya
 **A:** Ide bagus. Bank seneri = kumpulan skenario/context yang bisa diakses kedua mesin (local + server). Sync via rsync/SSH seperti shared-memory SQLite yang udah ada. Riset sebentar — sharing sumber daya antar instance itu cuma masalah transport dan skema data. [tool: web_search] [tool: web_search] [tool
 
-### Q3: [User attached file: /home/the-meh/.hermes/shared-memory/servers.yaml] di isi nya serti notes: 'Hermes v0.15.1, 3.9GB RA
+### Q3: [User attached file: USER_HOME/.hermes/shared-memory/servers.yaml] di isi nya serti notes: 'Hermes v0.15.1, 3.9GB RA
 **A:** OK. Riset cukup. Sekarang kita udah punya fondasi: shared-memory SQLite + rsync. Tinggal upgrade ke "bank seneri" yang lebih kaya dari sekedar facts/entities. Mari kita desain bareng dulu. [tool: clarify]
 
 ### Q4: tidak ganti notes nya menjadi "serverbogo, Server Hermes" itu aja hmm seperti nya nati bisa saya edit manual juga deh
@@ -41,8 +41,8 @@ Model: 9run_owl-alpha | Pesan: 307 | Kategori: hermes
 - `chmod 600 ~/.ssh/authorized_keys`
 - `chmod 700 ~/.ssh`
 - `mkdir -p ~/.ssh`
-- `python3 /home/the-meh/.hermes/shared-memory/memory.py add-context "Server Bian Vigano - SSH Password" "password_di_sini"`
-- `python3 /home/the-meh/.hermes/shared-memory/memory.py delete-context 2`
+- `python3 USER_HOME/.hermes/shared-memory/memory.py add-context "Server Bian Vigano - SSH Password" "password_di_sini"`
+- `python3 USER_HOME/.hermes/shared-memory/memory.py delete-context 2`
 - `ssh bian-vigano`
 - `ssh root@139.180.142.151`
 - `ssh root@139.180.142.151 'echo OK'`

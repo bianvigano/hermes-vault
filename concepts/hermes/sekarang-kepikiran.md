@@ -15,8 +15,8 @@ source: "sessions/hermes/kode-sekarang-saya-kepikiran-bikin.md"
 - `chmod 600 ~/.ssh/authorized_keys`
 - `chmod 700 ~/.ssh`
 - `mkdir -p ~/.ssh`
-- `python3 /home/the-meh/.hermes/shared-memory/memory.py add-context "Server Bian Vigano - SSH Password" "password_di_sini"`
-- `python3 /home/the-meh/.hermes/shared-memory/memory.py delete-context 2`
+- `python3 USER_HOME/.hermes/shared-memory/memory.py add-context "Server Bian Vigano - SSH Password" "password_di_sini"`
+- `python3 USER_HOME/.hermes/shared-memory/memory.py delete-context 2`
 - `ssh bian-vigano`
 - `ssh root@139.180.142.151`
 - `ssh root@139.180.142.151 'echo OK'` ```bash`

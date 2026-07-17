@@ -11,7 +11,7 @@ User asked to merge server backups into a single location. Involved PrismLaunche
 
 ## Key Points
 - Backup merge/consolidation from multiple sources
-- File: `/home/the-meh/Documents/` attachment
+- File: `USER_HOME/Documents/` attachment
 - Tools: PrismLauncher, VSCode, Docker, console
 - Covered: backup, local paths, server schemes
 - Model switched from deepseek-v4-flash to owl-alpha via OpenRouter

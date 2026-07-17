@@ -1,5 +1,5 @@
 ---
-title: "'/home/the-meh/Downloads/serverconl' lihat ini"
+title: "'USER_HOME/Downloads/serverconl' lihat ini"
 date: 2026-06-16T21:45:55
 session_id: 20260616_212040_5477fe_20260616_214555_954196
 category: hermes
@@ -8,13 +8,13 @@ messages: 25
 source_dump: request_dump_20260616_212040_5477fe_20260616_214555_954196.json
 ---
 
-# '/home/the-meh/Downloads/serverconl' lihat ini
+# 'USER_HOME/Downloads/serverconl' lihat ini
 
 ## Ringkasan
 Model: openrouter/owl-alpha | Pesan: 25 | Kategori: hermes
 
 ## Percakapan
-### Q1: '/home/the-meh/Downloads/serverconl' lihat ini
+### Q1: 'USER_HOME/Downloads/serverconl' lihat ini
 **A:** Let me check what's in that directory. [tool: terminal]
 
 ### Q2: dari server ini saya mau bikin dunianya ada di the end pake -g PlotSquared (-g itu generator)

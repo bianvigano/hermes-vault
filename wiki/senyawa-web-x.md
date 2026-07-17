@@ -1,7 +1,7 @@
 # Senyawa Web X
 
 ## Info Project
-- Path: `/home/the-meh/Desktop/senyawa-web-X/`
+- Path: `USER_HOME/Desktop/senyawa-web-X/`
 - Stack: Next.js + TypeScript + Tailwind + Prisma + PostgreSQL
 - Repo: `https://github.com/bianvigano/senyawa-web-X.git`
 

@@ -1,12 +1,12 @@
 ---
-title: "ke projek ini '/home/the-meh/Desktop/bot-discord-ai-chat'"
+title: "ke projek ini 'USER_HOME/Desktop/bot-discord-ai-chat'"
 date: 2026-07-16
 category: hermes
 tags: []
 source: "sessions/hermes/projek-ini-homethe-mehdesktopbot-discord-ai-chat.md"
 ---
 
-# ke projek ini '/home/the-meh/Desktop/bot-discord-ai-chat'
+# ke projek ini 'USER_HOME/Desktop/bot-discord-ai-chat'
 
 ## Masalah
 

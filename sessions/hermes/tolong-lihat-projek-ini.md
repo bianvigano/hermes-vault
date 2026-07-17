@@ -17,7 +17,7 @@ Model: 9run_owl-alpha | Pesan: 184 | Kategori: hermes
 ### Q1: tolong lihat projek ini
 ### Q2: [System: The previous response was cut off by a network error mid-stream. Continue exactly where you left off. Do not re
 ### Q3: pertama tolong puss ke githut degan commit apa aja yang sudah berubah
-### Q4: okey tadi sih dari projek ini visual titles tidak terlihat kamu bis aliha '/home/the-meh/Downloads/Travelers-Titles/debu
+### Q4: okey tadi sih dari projek ini visual titles tidak terlihat kamu bis aliha 'USER_HOME/Downloads/Travelers-Titles/debu
 ### Q5: coba saya cek dulu
 **A:** Projek **Travelers-Titles** — Minecraft mod multi-loader (Fabric/Forge/NeoForge). **Versi:** 5.1.3 untuk MC 1.21.11 **Struktur:** ``` Travelers-Titles/ ├── Common/ # Kode shared (platform-agnostic) │ ├── command/ # BiomeTitleCommand, DimensionTitleCommand, ReloadConfigCommand │ ├── mixin/ # EntityCh
 

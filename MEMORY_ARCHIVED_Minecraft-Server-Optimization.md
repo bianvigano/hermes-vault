@@ -48,7 +48,7 @@
 - Shared hosting
 
 ## Server minecraft-serverx
-- Location: /home/the-meh/Desktop/minecraft-serverx/
+- Location: USER_HOME/Desktop/minecraft-serverx/
 - Software: Purpur 1.21.11
 - Issues found:
   - sync-chunk-writes=true (should be false)

@@ -16,18 +16,18 @@ Model: nvidia/nemotron-3-super-120b-a12b:free | Pesan: 74 | Kategori: hermes
 ## Percakapan
 ### Q1: https://spark.lucko.me/6hu1VNXFuZ apakah kamu bisa periksa link ini menggunkan semaca tools untuk menghasil kan output y
 ### Q2: bisakah kamu bikin sebuh plugin untuk kamu supaya kamu bisa periksa sendiri link yang saya berikan atau ga kamu bikin ka
-### Q3: hmm untuk /home/the-meh/check_spark_selenium.py yang barus di bikin bikin forder dong
+### Q3: hmm untuk USER_HOME/check_spark_selenium.py yang barus di bikin bikin forder dong
 ### Q4: itu aja sudah bagus
-### Q5: [User attached file: /home/the-meh/spark_tools/check_spark_selenium.py] saya pidah menjadi tempa plugin dari kamu
+### Q5: [User attached file: USER_HOME/spark_tools/check_spark_selenium.py] saya pidah menjadi tempa plugin dari kamu
 **A:** Berikut adalah ringkasan dari halaman Spark Profiler yang berhasil saya ambil: **Umum** - Judul halaman: “spark | 6hu1VNXFuZ” - Mode: Dark - Timestamp terlihat: 08:09PM, 5/24/2026 **Metrik Utama** - **TPS (Ticks Per Second)**: 12.98 (ideal 20) - **MSPT (Milliseconds Per Tick)**: - Min: 49.4 ms - Med
 
 ### Q6: ini solusi dari Github Article: https://github.com/YouHaveTrouble/minecraft-optimization/blob/{1.18,1.19,1.20,1.21,1.21.
 ### Q7: hmm, kamu tabhkan code untuk informasi dari Spark dan solinya, karen saya takut kehabisan token
 ## Commands
 - `pip install selenium webdriver-manager`
-- `python3 /home/the-meh/.hermes/skills/spark-profiler-analyzer/scripts/check_spark_selenium.py`
-- `python3 /home/the-meh/check_spark_selenium.py`
-- `python3 /home/the-meh/spark_tools/check_spark_selenium.py`
+- `python3 USER_HOME/.hermes/skills/spark-profiler-analyzer/scripts/check_spark_selenium.py`
+- `python3 USER_HOME/check_spark_selenium.py`
+- `python3 USER_HOME/spark_tools/check_spark_selenium.py`
 
 ## Code
 ```json
@@ -62,7 +62,7 @@ Model: nvidia/nemotron-3-super-120b-a12b:free | Pesan: 74 | Kategori: hermes
 ```
 
 ```bash
-/home/the-meh/check_spark_selenium.py
+USER_HOME/check_spark_selenium.py
 ```
 
 ```bash

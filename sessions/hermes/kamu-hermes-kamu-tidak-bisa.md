@@ -14,9 +14,9 @@ source_dump: request_dump_20260713_093229_1e03f0_20260713_103756_241676.json
 Model: jb/claude-sonnet-5 | Pesan: 48 | Kategori: hermes
 
 ## Percakapan
-### Q1: di kamu hermes kamu tidak bisa bikin RTK.md untuk RTK - Rust Token Killer , kamu bisa cek dari /home/the-meh/.claude/RTK
-### Q2: bukan ke /home/the-meh/.claude tapi ke /home/the-meh/.hermes/
-**A:** File udah ada di `/home/the-meh/.claude/RTK.md`, isinya: - RTK - Rust Token Killer, CLI proxy optimized token (60-90% savings) - Meta commands: `rtk gain`, `rtk gain --history`, `rtk discover`, `rtk proxy <cmd>` - Verifikasi install: `rtk --version`, `rtk gain`, `which rtk` - Hook-based: semua comma
+### Q1: di kamu hermes kamu tidak bisa bikin RTK.md untuk RTK - Rust Token Killer , kamu bisa cek dari USER_HOME/.claude/RTK
+### Q2: bukan ke USER_HOME/.claude tapi ke USER_HOME/.hermes/
+**A:** File udah ada di `USER_HOME/.claude/RTK.md`, isinya: - RTK - Rust Token Killer, CLI proxy optimized token (60-90% savings) - Meta commands: `rtk gain`, `rtk gain --history`, `rtk discover`, `rtk proxy <cmd>` - Verifikasi install: `rtk --version`, `rtk gain`, `which rtk` - Hook-based: semua comma
 
 ### Q3: giman cara testnya ?
 ### Q4: bisa ga sementara dinonaktifkan system RTK bisa ga sementara dinonaktifkan system RTK entahlah sebuhtanya apa

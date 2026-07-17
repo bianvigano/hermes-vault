@@ -1,16 +1,16 @@
 ---
-title: "'/home/the-meh/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error "
+title: "'USER_HOME/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error "
 date: 2026-07-16
 category: hermes
 tags: []
 source: "sessions/hermes/homethe-mehdocumentsminecrafttitlegenerator-tolong.md"
 ---
 
-# '/home/the-meh/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error 
+# 'USER_HOME/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error 
 
 ## Masalah
 - /MinecraftTitleGenerator' tolong npm i , jika ada error fix kan
-- /MinecraftTitleGenerator' tolong npm i , jika ada error fix kan Model: 9run_owl-alpha | Pesan: 36 | Kategori: hermes ### Q1: '/home/the-meh/Documents/MinecraftTitleGenerator' tolong npm i , jika ada e
+- /MinecraftTitleGenerator' tolong npm i , jika ada error fix kan Model: 9run_owl-alpha | Pesan: 36 | Kategori: hermes ### Q1: 'USER_HOME/Documents/MinecraftTitleGenerator' tolong npm i , jika ada e
 
 ## Solusi
 - kan `python3`) untuk compile. Fix cepat: [tool: terminal] - `npm audit fix`
@@ -26,7 +26,7 @@ source: "sessions/hermes/homethe-mehdocumentsminecrafttitlegenerator-tolong.md"
 - `npm error command failed`
 - `npm error command sh -c prebuild-install || node-gyp rebuild`
 - `npm error gyp ERR! System Linux 6.8.0-124-generic`
-- `npm error gyp ERR! command "/home/the-meh/.nvm/versions/node/v22.22.3/bin/node" "/home/the-meh/Documents/MinecraftTitleG`
+- `npm error gyp ERR! command "USER_HOME/.nvm/versions/node/v22.22.3/bin/node" "USER_HOME/Documents/MinecraftTitleG`
 - `npm error gyp ERR! configure error`
 
 ## Sumber
