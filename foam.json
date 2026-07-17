@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "url": "",
+    "branch": "main"
+  },
+  "files": {
+    "include": ["**/*.md"],
+    "exclude": ["_meta/**/*", "scripts/**/*", "memory-archive/**/*", ".vscode/**/*"]
+  },
+  "graph": {
+    "workspace": "."
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-07-17T08:47:08.014381+00:00",
+  "counts": {
+    "sessions": 19,
+    "concepts": 18,
+    "decisions": 0,
+    "people": 0
+  },
+  "processed_sessions": [
+    "20260612_213943_00bd4b",
+    "20260629_113348_286b21",
+    "20260526_113404_c6dcc2",
+    "20260611_165440_f3d854",
+    "20260716_224930_4f2bbf",
+    "20260626_194100_055f53",
+    "20260623_113347_ea30e8",
+    "20260705_141312_0a21f5",
+    "20260519_115041_ff2ce1",
+    "20260530_152245_7dc614",
+    "20260630_172338_b69a7b",
+    "20260713_093229_1e03f0",
+    "20260520_151832_d6167e",
+    "20260521_111849_2f5d53",
+    "20260613_154525_616fe0",
+    "20260616_212040_5477fe",
+    "20260701_134036_088502",
+    "20260611_204517_82587e",
+    "20260612_193800_e41c92"
+  ],
+  "skipped_sessions": [
+    {
+      "id": "session_20260514_100230_87df33",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260514_102937_c8b1bd",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260514_133840_0c6a61",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_f53d64b0-ee33-446b-9c30-d3bb7de21b8b",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_f2473c84-b5c2-46c1-b236-fd7bcba4aa46",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260514_203835_96b3c1",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260514_204359_3041b5",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260516_102840_40f034",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260516_100022_e7be54",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260516_210633_700d1a",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260516_220009_b07600",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260516_220128_dd802d",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260518_110750_c3097b",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_115041_ff2ce1",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_123942_14aba5",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_141626_240663",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_141737_311218",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_142523_151454",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_143425_a39099",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_143704_30322b",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_145234_ea3a72",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_145338_cb8fe3",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_155837_fcab2b",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_165447_ca0ad5",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_170754_f594c1",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_175200_4f9810",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_175701_ef3635",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_181454_2b1386",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260519_182957_2d86ac",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260520_145453_a81e89",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260521_111849_2f5d53",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260528_115519_a396c1",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260529_145843_8ad36e",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260602_063100_71519b",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260603_103758_b12a5f",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260604_124849_31bb1e",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260604_155757_9911fb",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260605_141457_37bfb9",
+      "reason": "trivial"
+    },
+    {
+      "id": "session_20260606_072705_9deba3",
+      "reason": "trivial"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "20260519_115041_ff2ce1",
+      "file": "sessions/hermes/halo-kamu-siapa.md",
+      "date": "2026-05-19T11:54:29",
+      "messages": 7
+    },
+    {
+      "session_id": "20260520_151832_d6167e",
+      "file": "sessions/hermes/coba-kamu-lihat-code-html.md",
+      "date": "2026-05-20T22:36:18",
+      "messages": 103
+    },
+    {
+      "session_id": "20260521_111849_2f5d53",
+      "file": "sessions/hermes/you-are-running-hermes-background.md",
+      "date": "2026-05-21T11:19:14",
+      "messages": 8
+    },
+    {
+      "session_id": "20260526_113404_c6dcc2",
+      "file": "sessions/hermes/httpssparkluckome6hu1vnxfuz-apakah-kamu-bisa-perik.md",
+      "date": "2026-05-26T12:29:03",
+      "messages": 74
+    },
+    {
+      "session_id": "20260530_152245_7dc614",
+      "file": "sessions/hermes/cek-link-ini-httpssparkluckomem7ijypx8aq-dan.md",
+      "date": "2026-05-30T15:37:10",
+      "messages": 42
+    },
+    {
+      "session_id": "20260611_165440_f3d854",
+      "file": "sessions/hermes/saya-mau-kamu-cek-sebuah.md",
+      "date": "2026-06-11T17:36:16",
+      "messages": 112
+    },
+    {
+      "session_id": "20260611_204517_82587e",
+      "file": "sessions/hermes/saya-mau-tau-status-kamu.md",
+      "date": "2026-06-11T20:49:25",
+      "messages": 8
+    },
+    {
+      "session_id": "20260612_193800_e41c92",
+      "file": "sessions/hermes/kamu-lihat-web-ini-httpsmodrinthcomdatapackterrain.md",
+      "date": "2026-06-12T22:48:25",
+      "messages": 123
+    },
+    {
+      "session_id": "20260612_213943_00bd4b",
+      "file": "sessions/hermes/saya-mau-kamu-baca-semuah.md",
+      "date": "2026-06-12T21:49:33",
+      "messages": 36
+    },
+    {
+      "session_id": "20260613_154525_616fe0",
+      "file": "sessions/hermes/saya-mau-bertanya-kamu-bisa.md",
+      "date": "2026-06-13T16:00:48",
+      "messages": 19
+    },
+    {
+      "session_id": "20260616_212040_5477fe",
+      "file": "sessions/hermes/homethe-mehdownloadsserverconl-lihat-ini.md",
+      "date": "2026-06-16T21:45:55",
+      "messages": 25
+    },
+    {
+      "session_id": "20260623_113347_ea30e8",
+      "file": "sessions/hermes/kode-sekarang-saya-kepikiran-bikin.md",
+      "date": "2026-06-23T20:03:48",
+      "messages": 307
+    },
+    {
+      "session_id": "20260626_194100_055f53",
+      "file": "sessions/hermes/homethe-mehdocumentsminecrafttitlegenerator-tolong.md",
+      "date": "2026-06-26T20:38:57",
+      "messages": 36
+    },
+    {
+      "session_id": "20260629_113348_286b21",
+      "file": "sessions/hermes/coba-kamu-cek-github-ini.md",
+      "date": "2026-07-01T13:04:33",
+      "messages": 242
+    },
+    {
+      "session_id": "20260630_172338_b69a7b",
+      "file": "sessions/hermes/tolong-lihat-projek-ini.md",
+      "date": "2026-06-30T18:59:47",
+      "messages": 184
+    },
+    {
+      "session_id": "20260701_134036_088502",
+      "file": "sessions/hermes/coba-kamu-cek-github-ini.md",
+      "date": "2026-07-01T23:02:34",
+      "messages": 344
+    },
+    {
+      "session_id": "20260705_141312_0a21f5",
+      "file": "sessions/hermes/homethe-mehdocumentsdonuthome-100-alldonuthome-reb.md",
+      "date": "2026-07-05T17:09:03",
+      "messages": 101
+    },
+    {
+      "session_id": "20260713_093229_1e03f0",
+      "file": "sessions/hermes/kamu-hermes-kamu-tidak-bisa.md",
+      "date": "2026-07-13T10:37:56",
+      "messages": 48
+    },
+    {
+      "session_id": "20260716_224930_4f2bbf",
+      "file": "sessions/hermes/projek-ini-homethe-mehdesktopbot-discord-ai-chat.md",
+      "date": "2026-07-16T22:49:39",
+      "messages": 10
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "hermes-spark",
+      "category": "hermes",
+      "source": "sessions/hermes/cek-link-ini-httpssparkluckomem7ijypx8aq-dan.md",
+      "updated": "2026-07-16T03:06:47.511880+00:00"
+    },
+    {
+      "slug": "minecraft-coba",
+      "category": "minecraft",
+      "source": "sessions/hermes/coba-kamu-cek-github-ini.md",
+      "updated": "2026-07-16T03:06:47.513997+00:00"
+    },
+    {
+      "slug": "coba-lihat-html",
+      "category": "hermes",
+      "source": "sessions/hermes/coba-kamu-lihat-code-html.md",
+      "updated": "2026-07-16T03:06:47.514863+00:00"
+    },
+    {
+      "slug": "hermes-siapa",
+      "category": "hermes",
+      "source": "sessions/hermes/halo-kamu-siapa.md",
+      "updated": "2026-07-16T03:06:47.515470+00:00"
+    },
+    {
+      "slug": "home-documents-donuthome",
+      "category": "hermes",
+      "source": "sessions/hermes/homethe-mehdocumentsdonuthome-100-alldonuthome-reb.md",
+      "updated": "2026-07-16T03:06:47.515957+00:00"
+    },
+    {
+      "slug": "home-documents-minecrafttitlegenerator",
+      "category": "hermes",
+      "source": "sessions/hermes/homethe-mehdocumentsminecrafttitlegenerator-tolong.md",
+      "updated": "2026-07-16T03:06:47.516703+00:00"
+    },
+    {
+      "slug": "home-downloads-serverconl",
+      "category": "minecraft",
+      "source": "sessions/hermes/homethe-mehdownloadsserverconl-lihat-ini.md",
+      "updated": "2026-07-16T03:06:47.517511+00:00"
+    },
+    {
+      "slug": "spark-lucko-vnxfuz",
+      "category": "minecraft",
+      "source": "sessions/hermes/httpssparkluckome6hu1vnxfuz-apakah-kamu-bisa-perik.md",
+      "updated": "2026-07-16T03:06:47.519032+00:00"
+    },
+    {
+      "slug": "hermes-hermes",
+      "category": "hermes",
+      "source": "sessions/hermes/kamu-hermes-kamu-tidak-bisa.md",
+      "updated": "2026-07-16T03:06:47.520511+00:00"
+    },
+    {
+      "slug": "hermes-lihat",
+      "category": "hermes",
+      "source": "sessions/hermes/kamu-lihat-web-ini-httpsmodrinthcomdatapackterrain.md",
+      "updated": "2026-07-16T03:06:47.521672+00:00"
+    },
+    {
+      "slug": "sekarang-kepikiran",
+      "category": "hermes",
+      "source": "sessions/hermes/kode-sekarang-saya-kepikiran-bikin.md",
+      "updated": "2026-07-16T03:06:47.523618+00:00"
+    },
+    {
+      "slug": "hermes-bertanya",
+      "category": "hermes",
+      "source": "sessions/hermes/saya-mau-bertanya-kamu-bisa.md",
+      "updated": "2026-07-16T03:06:47.525288+00:00"
+    },
+    {
+      "slug": "baca-semuah",
+      "category": "hermes",
+      "source": "sessions/hermes/saya-mau-kamu-baca-semuah.md",
+      "updated": "2026-07-16T03:06:47.526635+00:00"
+    },
+    {
+      "slug": "hermes-sebuah",
+      "category": "hermes",
+      "source": "sessions/hermes/saya-mau-kamu-cek-sebuah.md",
+      "updated": "2026-07-16T03:06:47.528134+00:00"
+    },
+    {
+      "slug": "hermes-status",
+      "category": "hermes",
+      "source": "sessions/hermes/saya-mau-tau-status-kamu.md",
+      "updated": "2026-07-16T03:06:47.529121+00:00"
+    },
+    {
+      "slug": "tolong-lihat-projek",
+      "category": "hermes",
+      "source": "sessions/hermes/tolong-lihat-projek-ini.md",
+      "updated": "2026-07-16T03:06:47.530222+00:00"
+    },
+    {
+      "slug": "running-hermes-background",
+      "category": "hermes",
+      "source": "sessions/hermes/you-are-running-hermes-background.md",
+      "updated": "2026-07-16T03:06:47.531203+00:00"
+    },
+    {
+      "slug": "projek-home",
+      "category": "hermes",
+      "source": "sessions/hermes/projek-ini-homethe-mehdesktopbot-discord-ai-chat.md",
+      "updated": "2026-07-16T16:37:00.940424+00:00"
+    }
+  ]
+}

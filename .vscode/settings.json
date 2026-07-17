@@ -1,0 +1,22 @@
+{
+  "name": "Bian's Knowledge Base",
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.graph.hoverLinks": true,
+  "foam.graph.title": "Bian's Knowledge Graph",
+  "foam.graph.showExtensions": false,
+  "foam.graph.groupBy": "folder",
+  "foam.graph.borderColor": "#4a9eff",
+  "foam.graph.nodeColor": "#888888",
+  "foam.graph.edgeColor": "#555555",
+  "foam.graph.activeNodeColor": "#ff6b35",
+  "foam.graph.nodeColors": {
+    "note": "#4a9eff",
+    "placeholder": "#cccccc"
+  },
+  "foam.files.include": ["**/*.md"],
+  "foam.files.exclude": ["_meta/**/*", "scripts/**/*", "memory-archive/**/*"],
+  "foam.dateSnippets.enabled": true,
+  "foam.templates.enabled": true,
+  "foam.openDailyNote.directory": "daily",
+  "foam.openDailyNote.filenameFormat": "yyyy-MM-dd"
+}
