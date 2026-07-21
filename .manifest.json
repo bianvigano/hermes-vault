@@ -1,32 +1,32 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-17T10:48:13.974058+00:00",
+  "last_updated": "2026-07-21T13:45:06.905853+00:00",
   "counts": {
     "sessions": 19,
-    "concepts": 18,
+    "concepts": 22,
     "decisions": 0,
     "people": 0
   },
   "processed_sessions": [
-    "20260612_193800_e41c92",
-    "20260613_154525_616fe0",
-    "20260519_115041_ff2ce1",
-    "20260521_111849_2f5d53",
-    "20260611_165440_f3d854",
-    "20260520_151832_d6167e",
+    "20260629_113348_286b21",
+    "20260716_224930_4f2bbf",
     "20260713_093229_1e03f0",
     "20260623_113347_ea30e8",
-    "20260530_152245_7dc614",
-    "20260629_113348_286b21",
-    "20260705_141312_0a21f5",
-    "20260612_213943_00bd4b",
-    "20260701_134036_088502",
-    "20260616_212040_5477fe",
-    "20260716_224930_4f2bbf",
-    "20260626_194100_055f53",
-    "20260630_172338_b69a7b",
     "20260611_204517_82587e",
-    "20260526_113404_c6dcc2"
+    "20260613_154525_616fe0",
+    "20260611_165440_f3d854",
+    "20260520_151832_d6167e",
+    "20260530_152245_7dc614",
+    "20260630_172338_b69a7b",
+    "20260526_113404_c6dcc2",
+    "20260612_193800_e41c92",
+    "20260616_212040_5477fe",
+    "20260705_141312_0a21f5",
+    "20260519_115041_ff2ce1",
+    "20260626_194100_055f53",
+    "20260521_111849_2f5d53",
+    "20260701_134036_088502",
+    "20260612_213943_00bd4b"
   ],
   "skipped_sessions": [
     {
@@ -410,6 +410,30 @@
       "category": "hermes",
       "source": "sessions/hermes/projek-ini-homethe-mehdesktopbot-discord-ai-chat.md",
       "updated": "2026-07-16T16:37:00.940424+00:00"
+    },
+    {
+      "slug": "user-home-documents-donuthome",
+      "category": "hermes",
+      "source": "sessions/hermes/homethe-mehdocumentsdonuthome-100-alldonuthome-reb.md",
+      "updated": "2026-07-17T12:49:13.310866+00:00"
+    },
+    {
+      "slug": "user-home-documents-minecrafttitlegenerator-tolong",
+      "category": "hermes",
+      "source": "sessions/hermes/homethe-mehdocumentsminecrafttitlegenerator-tolong.md",
+      "updated": "2026-07-17T12:49:13.312267+00:00"
+    },
+    {
+      "slug": "user-home-downloads-serverconl-lihat",
+      "category": "minecraft",
+      "source": "sessions/hermes/homethe-mehdownloadsserverconl-lihat-ini.md",
+      "updated": "2026-07-17T12:49:13.313867+00:00"
+    },
+    {
+      "slug": "projek-user-home-desktop",
+      "category": "hermes",
+      "source": "sessions/hermes/projek-ini-homethe-mehdesktopbot-discord-ai-chat.md",
+      "updated": "2026-07-17T12:49:13.315879+00:00"
     }
   ]
 }

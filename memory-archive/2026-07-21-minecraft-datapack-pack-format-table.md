@@ -1,0 +1,1 @@
+minecraft datapack pack_format table:\n1.19.2=9, 1.20.1=15, 1.20.2=18, 1.20.4=22, 1.21=26, 1.21.2=34, 1.21.3=42, 1.21.4=48, 1.21.5/26.3=111. Minecraft 2025 naming: drop "1." prefix — 1.21.5 = "26.3".

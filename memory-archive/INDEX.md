@@ -4,6 +4,13 @@ Archived memory & user-profile entries from Hermes memory system.
 
 | Date | Source | Summary | Tags | File |
 |------|--------|---------|------|------|
+|| 2026-07-21 | memory | Project senyawa-no-nexo — Paper plugin nyawa system | project,archive | 2026-07-21-project-senyawa-no-nexo.md |
+|| 2026-07-21 | memory | Alias CLI tools — ~/.bash_aliases vs symlinks | alias,cli,archive | 2026-07-21-alias-cli-tools.md |
+|| 2026-07-21 | memory | buildjar skill — skill_manage mismatch bug | skill,bug,archive | 2026-07-21-buildjar-skill-skillmanage-mismatch.md |
+|| 2026-07-21 | memory | git push credential fix — github token auth loop | git,credential,archive | 2026-07-21-git-push-credential-fix.md |
+|| 2026-07-21 | memory | minecraft datapack pack_format table | minecraft,archive | 2026-07-21-minecraft-datapack-pack-format-table.md |
+|| 2026-07-20 | memory | Project bot-discord-ai-chat: moderation  | project,archive | 2026-07-20-project-bot-discord-ai-chat-moderation-dashboard-with-usern.md |
+| 2026-07-20 | memory | Project senyawa-web-X: lokasi /home/the- | project,archive | 2026-07-20-project-senyawa-web-x-lokasi-home-the-meh-desktop-senyawa.md |
 | 2026-07-17 | memory | Pending skill update — minecraft SKILL | archive, skill-update-pending, minecraft | 2026-07-17-pending-skill-update-minecraft-skill-md-section-2-add-f.md |
 | 2026-07-17 | memory | Pending skill patch — remote-server-au | archive, skill-patch-pending, remote-server-audit | 2026-07-17-pending-skill-patch-remote-server-audit-skill-md-section.md |
 | 2026-07-17 | memory | Project bot-discord-ai-chat (old project | archive, bot-discord-ai-chat-old-project, archived-project | 2026-07-17-project-bot-discord-ai-chat-old-project-home-the-meh-des.md |

@@ -1,0 +1,1 @@
+buildjar skill (devops/buildjar) exists at ~/.hermes/skills/devops/buildjar/ but skill_manage can't find it — says "not found in active profile default". skill_view loads it fine. Same bug as minecraft-datapack skill. Known Hermes issue: skills-all/ vs skills/ directory mismatch.

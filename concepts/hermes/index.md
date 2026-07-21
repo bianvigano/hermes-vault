@@ -12,6 +12,9 @@
 - [[hermes/home-documents-donuthome]] — USER_HOME/Documents/DonutHome-1.0.0-all/DonutHome-rebuild/src/main/java/a to
 - [[hermes/home-documents-minecrafttitlegenerator]] — 'USER_HOME/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error 
 - [[hermes/projek-home]] — ke projek ini 'USER_HOME/Desktop/bot-discord-ai-chat'
+- [[hermes/projek-user-home-desktop]] — ke projek ini 'USER_HOME/Desktop/bot-discord-ai-chat'
 - [[hermes/running-hermes-background]] — You are running as Hermes' background skill CURATOR. This is an UMBRELLA-BUILDIN
 - [[hermes/sekarang-kepikiran]] — kode sekarang saya kepikiran bikin sebuah ssytem untuk memory supaya punya bank 
 - [[hermes/tolong-lihat-projek]] — tolong lihat projek ini
+- [[hermes/user-home-documents-donuthome]] — USER_HOME/Documents/DonutHome-1.0.0-all/DonutHome-rebuild/src/main/java/a tolong
+- [[hermes/user-home-documents-minecrafttitlegenerator-tolong]] — 'USER_HOME/Documents/MinecraftTitleGenerator' tolong npm i , jika ada error fix 

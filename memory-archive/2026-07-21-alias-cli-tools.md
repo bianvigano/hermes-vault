@@ -1,0 +1,1 @@
+Alias untuk CLI tools harus di ~/.bash_aliases (alias name='command'), bukan symlink di /usr/local/bin. User koreksi ini saat buildjar dibuat — hapus symlink /usr/local/bin/bikinjar, ganti dengan "alias bikinjar='buildjar'" di ~/.bash_aliases.

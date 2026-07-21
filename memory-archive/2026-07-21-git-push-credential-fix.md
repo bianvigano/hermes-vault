@@ -1,0 +1,1 @@
+git push credential fix: when `gh auth status` OK but `git push` fails "could not read Username/Password", use `git remote set-url origin "https://oauth2:$(gh auth token)@github.com/OWNER/REPO.git"` then push. Bypasses credential helper entirely, token stays in memory only.
