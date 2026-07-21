@@ -4,6 +4,8 @@ Wiki pribadi — ringkasan dari semua session percakupan dengan Hermes.
 
 ## Struktur
 
+- [[docker/overview]] — Wiki Docker: arsitektur, images, containers, compose, networking
+- [[lxc/overview]] — Wiki LXC: arsitektur, container lifecycle, networking, storage, security
 - [[minecraft-servers]] — Setup server Minecraft (arnarki, lobby, proxy)
 - [[senyawa-web-x]] — Project Next.js + Prisma
 - [[hermes-setup]] — Konfigurasi Hermes Agent
