@@ -4,22 +4,19 @@ Wiki pribadi — ringkasan dari semua session percakupan dengan Hermes.
 
 ## Wiki Offloaded (GitHub)
 
+Semua wiki dipindahkan ke GitHub. Klik link untuk lihat raw markdown.
+
 - [docker/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/docker/overview.md) — Wiki Docker: arsitektur, images, containers, compose, networking
 - [lxc/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/lxc/overview.md) — Wiki LXC: arsitektur, container lifecycle, networking, storage, security
+- [minecraft-servers](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/minecraft-servers.md) — Setup server Minecraft
+- [minecraft-plugins](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/minecraft-plugins.md) — Plugin Java
+- [senyawa-web-x](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/senyawa-web-x.md) — Project Next.js + Prisma
+- [hermes-setup](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/hermes-setup.md) — Konfigurasi Hermes Agent
+- [vault-system](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/vault-system.md) — Cara kerja Vault + memory
 
-> URL pattern: `https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/<topic>/<page>.md`
-> All docker (17 pages) + lxc (10 pages) available on GitHub.
-
-## Wiki Lokal
-
-- [[minecraft-servers]] — Setup server Minecraft (arnarki, lobby, proxy)
-- [[senyawa-web-x]] — Project Next.js + Prisma
-- [[hermes-setup]] — Konfigurasi Hermes Agent
-- [[vault-system]] — Cara kerja Vault + memory
-- [[minecraft-plugins]] — Plugin Java yang pernah dibuat
+> URL pattern: `https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/<page>.md`
 
 ## Cara Pakai
 
-- **Wiki offloaded**: klik link → lihat raw markdown di browser dari GitHub
-- **Wiki lokal**: search dengan `search_files`, buka di VS Code + Foam
-- Link Foam lokal: `[[nama-file]]`
+- Klik link di atas → lihat raw markdown di browser dari GitHub
+- Buka README ini di VS Code → Ctrl+Click link
