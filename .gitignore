@@ -1,0 +1,4 @@
+# Generated / cache files — not tracked in git
+.vault-cache/
+vault-out/
+.vault_graph_cache.json
